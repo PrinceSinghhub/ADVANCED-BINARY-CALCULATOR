@@ -14,8 +14,8 @@ In the end, I and my friend Prince Singh finally did this project. --->
 
 ## Video of this project
 
+https://user-images.githubusercontent.com/92217305/182359465-d7af593d-aa42-4273-a58c-051d9211a08d.mp4
 
-https://user-images.githubusercontent.com/92217305/182354713-73ad3bde-fe20-4ff8-802a-91379e0f9ba7.mp4
 
 ## About our project
 
