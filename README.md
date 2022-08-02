@@ -42,3 +42,8 @@ The tasks performed by this project :-
      - OR opertor
      - XOR operator
 
+
+
+## Future Scope
+In future we will add a algorithm to handle floating decimal’s Value in operation and conversion. Also modify for scientific calculation like, speed of light, gravity, log antilog.
+In future we use this calculator for security purpose.
